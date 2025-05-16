@@ -1,1 +1,2 @@
-Hi Everyone
+Hi everyone
+Hello everyone
